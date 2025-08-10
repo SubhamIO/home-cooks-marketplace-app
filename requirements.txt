@@ -1,0 +1,4 @@
+streamlit 
+sqlmodel 
+passlib[bcrypt] 
+qrcode[pil]
